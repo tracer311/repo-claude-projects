@@ -14,6 +14,7 @@
 - **EIN Application:** Submitted October 17, 2025 (pending IRS confirmation)
 - **Accounting Software:** Wave (configured, awaiting EIN to complete setup)
 - **Operating Agreement:** Completed and documented
+- **Business Bank:** Chase Bank (selected, pending EIN to open account)
 
 ---
 
@@ -113,7 +114,8 @@
 ## Phase 5: Operational Activation (Weeks 5-6)
 
 ### Workstream I: Banking & Finance
-- [ ] Open business bank accounts
+- [x] Select business bank (Chase Bank)
+- [ ] Open business bank account at Chase
 - [ ] Establish business credit profile
 - [x] Set up accounting/bookkeeping systems (Wave configured)
 - [ ] Update EIN in Wave accounting software (pending IRS approval)
@@ -241,8 +243,8 @@ Banking Setup (Week 5)
 **Priority Actions (Phase 5):**
 1. **Monitor EIN Confirmation** - EIN application submitted 10/17/2025, typically approved within 24-48 hours for online applications
 2. **Update EIN in Wave** - Once EIN is received, update it in Wave accounting software to complete setup
-3. **Prepare Banking Documentation** - Gather Certificate of Formation, Operating Agreement, and EIN confirmation letter for bank account opening
-4. **Open Business Bank Account** - Once EIN is received (requires EIN, Certificate of Formation, and Operating Agreement)
+3. **Prepare Banking Documentation for Chase** - Gather Certificate of Formation, Operating Agreement, and EIN confirmation letter for Chase business account opening
+4. **Open Chase Business Bank Account** - Once EIN is received, schedule appointment or apply online at Chase (requires EIN, Certificate of Formation, and Operating Agreement)
 5. **Conduct Initial Member Meeting** - Document organizational resolutions and approval of operating agreement
 6. **Research Texas State Tax Registration** - Determine if franchise tax or sales tax registration required
 7. **File Public Information Report** - Check Texas Comptroller for initial filing requirements
@@ -251,4 +253,4 @@ Banking Setup (Week 5)
 ---
 
 *Plan created: October 2024*
-*Last updated: October 17, 2025 - Operating Agreement Completed*
+*Last updated: October 17, 2025 - Chase Bank Selected*
