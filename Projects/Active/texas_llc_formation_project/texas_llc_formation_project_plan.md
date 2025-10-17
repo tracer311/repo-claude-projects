@@ -12,6 +12,7 @@
 - **Filing Authority:** Texas Secretary of State
 - **Status:** Registered and Active
 - **EIN Application:** Submitted October 17, 2025 (pending IRS confirmation)
+- **Accounting Software:** Wave (configured, awaiting EIN to complete setup)
 
 ---
 
@@ -113,7 +114,8 @@
 ### Workstream I: Banking & Finance
 - [ ] Open business bank accounts
 - [ ] Establish business credit profile
-- [ ] Set up accounting/bookkeeping systems
+- [x] Set up accounting/bookkeeping systems (Wave configured)
+- [ ] Update EIN in Wave accounting software (pending IRS approval)
 - [ ] Implement capital contribution procedures
 
 ### Workstream J: Governance Implementation
@@ -237,14 +239,14 @@ Banking Setup (Week 5)
 
 **Priority Actions (Phase 5):**
 1. **Monitor EIN Confirmation** - EIN application submitted 10/17/2025, typically approved within 24-48 hours for online applications
-2. **Prepare Banking Documentation** - Gather Certificate of Formation and EIN confirmation letter for bank account opening
-3. **Execute Operating Agreement** - Formalize management structure and member rights
-4. **Open Business Bank Account** - Once EIN is received (requires EIN and Certificate of Formation)
-5. **Set Up Accounting Systems** - QuickBooks, bookkeeping, etc.
+2. **Update EIN in Wave** - Once EIN is received, update it in Wave accounting software to complete setup
+3. **Prepare Banking Documentation** - Gather Certificate of Formation and EIN confirmation letter for bank account opening
+4. **Execute Operating Agreement** - Formalize management structure and member rights
+5. **Open Business Bank Account** - Once EIN is received (requires EIN and Certificate of Formation)
 6. **Research Texas State Tax Registration** - Determine if franchise tax or sales tax registration required
 7. **File Public Information Report** - Check Texas Comptroller for initial filing requirements
 
 ---
 
 *Plan created: October 2024*
-*Last updated: October 17, 2025 - EIN Application Submitted*
+*Last updated: October 17, 2025 - Wave Accounting Configured*
