@@ -11,6 +11,7 @@
 - **State:** Texas
 - **Filing Authority:** Texas Secretary of State
 - **Status:** Registered and Active
+- **EIN Application:** Submitted October 17, 2025 (pending IRS confirmation)
 
 ---
 
@@ -77,7 +78,7 @@
 - [x] Prepare expedited processing if needed (+$25)
 
 ### Workstream F: Post-Filing Preparation
-- [ ] Prepare EIN application materials (SS-4 form)
+- [x] Prepare EIN application materials (SS-4 form)
 - [ ] Research state tax registration requirements
 - [ ] Plan business license/permit needs
 - [ ] Prepare banking documentation package
@@ -96,7 +97,8 @@
 - [x] Update registered agent with filing confirmation
 
 ### Workstream H: Federal & State Setup
-- [ ] Apply for Federal EIN (online, immediate)
+- [x] Apply for Federal EIN (online, immediate) - Submitted October 17, 2025
+- [ ] Receive EIN confirmation from IRS
 - [ ] Complete Texas state tax registration if required
 - [ ] Register for required business licenses
 - [ ] File initial tax elections if applicable
@@ -233,14 +235,16 @@ Banking Setup (Week 5)
 
 ## Next Immediate Steps
 
-**Priority Actions (Phase 4 & 5):**
-1. **Apply for Federal EIN** - Can be done immediately online at IRS.gov (critical for banking)
-2. **Execute Operating Agreement** - Formalize management structure and member rights
-3. **Open Business Bank Account** - Requires EIN and Certificate of Formation
-4. **Set Up Accounting Systems** - QuickBooks, bookkeeping, etc.
-5. **File Public Information Report** - Check Texas Comptroller for initial filing requirements
+**Priority Actions (Phase 5):**
+1. **Monitor EIN Confirmation** - EIN application submitted 10/17/2025, typically approved within 24-48 hours for online applications
+2. **Prepare Banking Documentation** - Gather Certificate of Formation and EIN confirmation letter for bank account opening
+3. **Execute Operating Agreement** - Formalize management structure and member rights
+4. **Open Business Bank Account** - Once EIN is received (requires EIN and Certificate of Formation)
+5. **Set Up Accounting Systems** - QuickBooks, bookkeeping, etc.
+6. **Research Texas State Tax Registration** - Determine if franchise tax or sales tax registration required
+7. **File Public Information Report** - Check Texas Comptroller for initial filing requirements
 
 ---
 
 *Plan created: October 2024*
-*Last updated: October 16, 2024 - LLC Formation Completed*
+*Last updated: October 17, 2025 - EIN Application Submitted*
